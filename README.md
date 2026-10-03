@@ -1,6 +1,6 @@
 #  A Unified Privacy Framework for Secure and Utility-Preserving Retrieval-Augmented Generation Final
-**
-Abstract:**
+#  Abstract:
+
 With the growth of the applications of Retrieval Augmented Generation (RAG) systems to extremely sensitive areas, including
 healthcare and finance, the privacy of Personally Identifiable Information (PII) and Protected Health Information (PHI) has become
 the center of more concerns. The RAG systems of the past retrieve unfiltered text and anonymize it after retrieval, meaning that
