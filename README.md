@@ -1,5 +1,5 @@
-# DeTiME-MS-Thesis
-MS Thesis: A_Unified_Privacy_Framework_for_Secure_and_Utility_Preserving_Retrieval_Augmented_Generation___Final
+#  A_Unified_Privacy_Framework_for_Secure_and_Utility_Preserving_Retrieval_Augmented_Generation___Final
+
 Abstract:
 With the growth of the applications of Retrieval Augmented Generation (RAG) systems to extremely sensitive areas, including
 healthcare and finance, the privacy of Personally Identifiable Information (PII) and Protected Health Information (PHI) has become
